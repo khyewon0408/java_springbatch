@@ -11,7 +11,7 @@ public class VariableTest {
 		System.out.println(num);
 		
 		long lNum =123458900000L;
-		System.out.println(lNum);
+		System.out.println(lNum); 
 		
 	}
 
