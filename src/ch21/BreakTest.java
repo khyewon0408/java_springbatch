@@ -11,7 +11,7 @@ public class BreakTest {
 			if( sum >= 100)	break;
 		}
 		
-		System.out.println(sum);
+		System.out.println(sum); 
 		System.out.println(num);
 
 	}
